@@ -3,7 +3,7 @@
 Informationsseite zur Unterstützung österreichischer Studierender bei VGUH-Ergänzungsprüfungen.
 
 ## GEO Visibility Score
-**0/12 (0%)** — updated 2026-07-06
+**7/12 (58%)** — updated 2026-07-13
 
 ## Live Site
 See [the live site](https://vguh-vorbereitung.com) for full content.
